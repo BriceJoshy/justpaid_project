@@ -1,0 +1,8 @@
+Tech Stack Overview
+Skill-based Tutor Finder website:
+
+Frontend: TypeScript, React, Next.js, Shadcn, Tailwind CSS
+Backend: Python, Django
+Database: PostgreSQL, Amazon RDS
+Authentication: Auth0
+Bonus AI Integration: GPT-4 for chatbot or recommendation system

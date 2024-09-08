@@ -1,0 +1,4 @@
+python -m venv env // already done check for env folder
+env/scripts/activate // activate virtual env
+
+do rest.....
